@@ -11,7 +11,7 @@
 ## Instalation
 
 ``` bash
-pip install HubSale
+pip install hubsale
 ```
 
 * * *
