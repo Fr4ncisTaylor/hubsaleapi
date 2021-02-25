@@ -1,5 +1,5 @@
 
-<p align="center"><img src="images.png" alt="hubsale"></p>
+<p align="center"><img src="logotipo.png" alt="hubsale"></p>
 <p align="center"><a href="https://api.hub.sale/1.0/documentation/">HubSale APi</a></p>
 <p align="center"><strong>Version 1.0</strong></p>
 
