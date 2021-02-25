@@ -35,6 +35,7 @@ else:
 * * *
 ## Examples
 
-* [Connection](exemplos/editMessageText.py) - Editar mensagens.
-* [Consult sales by last transaction register date](exemplos/sendMessage.py) - Enviar mensagens.
-* [Consult sales by transaction register data](exemplos/sendReply.py) - Responde mensagens.
+* [Connect](https://github.com/Fr4ncisTaylor/HubSale-api/blob/main/exemplos/connect.py)
+* [Consult sales by last transaction register date](https://github.com/Fr4ncisTaylor/HubSale-api/blob/main/exemplos/consult%20sales%20by%20last%20transaction%20register%20date.py)
+* [Consult sales by transaction register data](https://github.com/Fr4ncisTaylor/HubSale-api/blob/main/exemplos/consult%20sales%20by%20transaction%20register%20date.py)
+* * [Consult sales by buy code](https://github.com/Fr4ncisTaylor/HubSale-api/blob/main/exemplos/Consult%20sale.py)
