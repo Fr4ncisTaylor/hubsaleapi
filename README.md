@@ -10,8 +10,9 @@
 * * *
 ## Instalation
 
-Clone o repositório:
-`pip install HubSale`
+``` bash
+pip install HubSale
+```
 
 * * *
 ## Connection
