@@ -4,7 +4,7 @@
 <p align="center"><strong>Version 1.0</strong></p>
 
 * * *
-[![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]()
+[![PyPI](https://img.shields.io/badge/python-3.8-blue.svg)]()
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 * * *
