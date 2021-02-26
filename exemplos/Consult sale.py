@@ -7,7 +7,7 @@ client_secret = "" # Your client secret
 hubsale       = HubSale(client_id, client_secret)
 code, message = hubsale.connect()
 
-buy_code = 61452371 # client buy code
+buy_code = 999999999 # client buy code
 
 if code:
 	# To officially consult
